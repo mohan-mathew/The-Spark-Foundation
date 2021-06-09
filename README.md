@@ -1,11 +1,6 @@
-# The Spark Foundation
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbune5TnrfBgFbxT87E98cfo9"> <img src="https://www.google.com/search?q=spark+foundation+data+science+business+analyst&rlz=1C1SQJL_enIN868IN868&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjx8s782InxAhWa8XMBHW-OAr4Q_AUoAnoECAEQBA&biw=1707&bih=844&dpr=1.13#imgrc=IPvCDT1-B0rZwM"> </a>
-<br>I got to have hands on experience on:
+# [The Spark Foundation].(https://www.thesparksfoundationsingapore.org/)
+##Internship - Data Science & Business Analytics intern in its Graduate Rotational Internship Program **(GRIP)**
+
 <li>Python
 <li>Tensorflow
 <li>Deep Learning
